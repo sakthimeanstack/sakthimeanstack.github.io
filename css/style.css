@@ -233,11 +233,10 @@ ul.pattern li #style {
 }
 /**************logo start**********************/
 #hs_header #hs_logo {
-    margin: 27px 0;
     cursor: pointer;
-    width: 80px;
     height: 38px;
-    margin-top: 5px;
+    margin: 2px 0 27px;
+    width: 90px;
 }
 #hs_header #hs_logo a img {
 	width: 100%;
@@ -624,7 +623,7 @@ ul.pattern li #style {
 	border-right: 2px solid #ccc;
 }
 li.active {
-    background-color: #FFCE07;
+    background-color: #2F87C7;
     border-bottom: 2px solid #BF1E2D;
 }
 .hs_page_title ul li:last-child a:before {
@@ -2097,7 +2096,7 @@ div[data-target] > div {
 	width: 100%;
 	float: left;
 	color: #fff;
-	background: #272727;
+	background: #2F87C7;
 }
 #hs_footer .hs_footer_content .hs_footer_menu {
 	width: 100%;
@@ -2242,7 +2241,7 @@ div[data-target] > div {
 }
 .hs_copyright {
 	text-transform: uppercase;
-	background: #222222;
+	background: #555562;
 	color: #fff;
 	float: left;
 	width: 100%;
